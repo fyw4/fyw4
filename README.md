@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-## My Stargazers over time
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fyw4)](https://github.com/fyw4/github-readme-stats)
 
-[![Stargazers over time](https://starchart.cc/fyw4)](https://starchart.cc/fyw4)
