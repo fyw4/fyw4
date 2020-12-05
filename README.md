@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fyw4&layout=compact)](https://github.com/fyw4/github-readme-stats)[![QingChuan Wang's github stats](https://github-readme-stats.vercel.app/api?username=fyw4&count_private=true&show_icons=true)](https://github.com/fyw4/github-readme-stats)
 
 <!--周记录时间-->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fyw4)](https://github.com/fyw4/github-readme-stats)
 
 <!--可以增加想要pin在profile中的repo，以PlantVSZombie-sun-Cheater为例子-->
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fyw4&repo=PlantVSZombie-sun-Cheater)](https://github.com/fyw4/PlantVSZombie-sun-Cheater)-->
