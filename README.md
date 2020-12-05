@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <!--github stats概述-->
-
 [![QingChuan Wang's github stats](https://github-readme-stats.vercel.app/api?username=fyw4&count_private=true&show_icons=true&theme=vue)](https://github.com/fyw4/github-readme-stats)
 
 <!--可以增加想要pin在profile中的repo，以PlantVSZombie-sun-Cheater为例子-->
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fyw4&repo=PlantVSZombie-sun-Cheater)](https://github.com/fyw4/PlantVSZombie-sun-Cheater)-->
 
-
+<!--常用语言-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fyw4)](https://github.com/fyw4/github-readme-stats)
