@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 <!--周记录时间-->
-<!--[![QingChuan Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fyw4)](https://github.com/fyw4/github-readme-stats)-->
+[![QingChuan Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fyw4)](https://github.com/fyw4/github-readme-stats)
 
 
 <!--可以增加想要pin在profile中的repo，以PlantVSZombie-sun-Cheater为例子-->
