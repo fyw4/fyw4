@@ -1,4 +1,4 @@
-# Hi there,my name is Qingchuan Wang（王晴川） 👋
+## Hi there,my name is Qingchuan Wang（王晴川） 👋
 
 ·🌱 I’m currently learning：C/C++、Qt、Data Structures and Algorithms、Embedded Development 、Math、Principle of Automatic Control
 
