@@ -4,12 +4,15 @@
 C/C++、
 Qt、
 Embedded Development
+
 ·📫 How to reach me: 
 CSDN blog:[CSDN](https://blog.csdn.net/wangqingchuan92)
 weibo：[weibo](https://weibo.com/u/2166554557?is_all=1)
 e-mail：wangqingchuan92@126.com
+
 ·🎓 my education experience：
 master's degree of Control Engineering
+
 ·💻 my work experience：
 Now working for CRRC DALIAN INSTITUE CO.,LTD
 
