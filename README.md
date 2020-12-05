@@ -1,6 +1,6 @@
 ### Hi there,my name is Qingchuan Wang（王晴川） 👋
 
-·🌱 I’m currently learning：C/C++、Qt、Embedded Development 、Math、Principle of Automatic Control
+·🌱 I’m currently learning：C/C++、Qt、Data Structures and Algorithms、Embedded Development 、Math、Principle of Automatic Control
 
 ·📫 How to reach me: [CSDN blog](https://blog.csdn.net/wangqingchuan92)、[weibo](https://weibo.com/u/2166554557?is_all=1)、e-mail：wangqingchuan92@126.com
 
