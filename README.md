@@ -10,10 +10,10 @@ Embedded Development
 [weibo](https://weibo.com/u/2166554557?is_all=1)、
 e-mail：wangqingchuan92@126.com
 
-·🎓 my education experience：
+·🎓 my education degree：
 master's degree of Control Engineering
 
-·💻 my work experience：
+·🔭 I’m currently working on：
 Now working for CRRC DALIAN INSTITUE CO.,LTD
 
 <!--
