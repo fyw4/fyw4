@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 [![QingChuan Wang's github stats](https://github-readme-stats.vercel.app/api?username=fyw4&count_private=true&show_icons=true&theme=vue)](https://github.com/fyw4/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fyw4&repo=github-readme-stats)](https://github.com/fyw4/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fyw4&repo=PlantVSZombie-sun-Cheater)](https://github.com/fyw4/PlantVSZombie-sun-Cheater)
 
