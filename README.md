@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![QingChuan Wang's github stats](https://github-readme-stats.vercel.app/api?username=fyw4)](https://github.com/fyw4/github-readme-stats)
+[![QingChuan Wang's github stats](https://github-readme-stats.vercel.app/api?username=fyw4&count_private=true&show_icons=true&theme=radical)](https://github.com/fyw4/github-readme-stats)
 
