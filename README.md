@@ -8,7 +8,7 @@
 
 #### 🔭 I’m currently working on：Now working for CRRC DALIAN INSTITUE CO.,LTD
 
-#### 📚 my reading hobbies：Reading more about computer works、Financial books、History books、Fiction、philosophy booksand so on.
+#### 📚 my reading hobbies： - Reading more about computer works、 - Financial books、History books、Fiction、philosophy booksand so on.
 
 <!--
 **fyw4/fyw4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
