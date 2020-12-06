@@ -1,28 +1,28 @@
-## Hi there,my name is Qingchuan Wang（王晴川） 👋
+## Hi there,my name is Qingchuan Wang（王晴川 in Chinese） 👋
 
 ### 🌱 I’m currently learning：
 
-C/C++、Qt、Data Structures and Algorithms、Embedded Development 、Math、Principle of Automatic Control
+- C/C++、Qt、Data Structures and Algorithms、Embedded Development 、Math、Principle of Automatic Control
 
 ### 📫 Contract me by:
 
-[CSDN blog](https://blog.csdn.net/wangqingchuan92)
+- [CSDN blog](https://blog.csdn.net/wangqingchuan92)
 
-[weibo](https://weibo.com/u/2166554557?is_all=1)
+- [weibo](https://weibo.com/u/2166554557?is_all=1)
 
-e-mail：wangqingchuan92@126.com
+- e-mail：wangqingchuan92@126.com
 
 ### 🎓 my education degree：
 
-master's degree of Control Engineering, Dalian Maritime University
+- master's degree of Control Engineering, Dalian Maritime University
 
 ### 🔭 I’m currently working on：
 
-Now working for CRRC DALIAN INSTITUE CO.,LTD
+- Now working for CRRC DALIAN INSTITUE CO.,LTD
 
 ### 📚 my reading hobbies：
 
-Reading more about computer works、Financial books、History books、Fiction and so on.
+- Reading more about computer works、Financial books、History books、Fiction and so on.
 
 <!--
 **fyw4/fyw4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
