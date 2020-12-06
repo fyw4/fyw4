@@ -1,10 +1,10 @@
 ## Hi there,my name is Qingchuan Wang（王晴川） 👋
 
-·🌱 I’m currently learning：
+### 🌱 I’m currently learning：
 
 C/C++、Qt、Data Structures and Algorithms、Embedded Development 、Math、Principle of Automatic Control
 
-·📫 Contract me by:
+### 📫 Contract me by:
 
 [CSDN blog](https://blog.csdn.net/wangqingchuan92)
 
@@ -12,15 +12,15 @@ C/C++、Qt、Data Structures and Algorithms、Embedded Development 、Math、Pri
 
 e-mail：wangqingchuan92@126.com
 
-·🎓 my education degree：
+### 🎓 my education degree：
 
 master's degree of Control Engineering, Dalian Maritime University
 
-·🔭 I’m currently working on：
+### 🔭 I’m currently working on：
 
 Now working for CRRC DALIAN INSTITUE CO.,LTD
 
-·📚 my reading hobbies：
+### 📚 my reading hobbies：
 
 Reading more about computer works、Financial books、History books、Fiction and so on.
 
