@@ -2,7 +2,7 @@
 
 #### 🌱 I’m currently learning：C/C++、Qt、Data Structures and Algorithms、Embedded Development 、Math、Principle of Automatic Control
 
-#### 📫 Contract me by:[CSDN blog](https://blog.csdn.net/wangqingchuan92)[weibo](https://weibo.com/u/2166554557?is_all=1)e-mail：wangqingchuan92@126.com
+#### 📫 Contract me by:[CSDN blog](https://blog.csdn.net/wangqingchuan92)|[weibo](https://weibo.com/u/2166554557?is_all=1)|e-mail：wangqingchuan92@126.com
 
 #### 🎓 my education degree：master's degree of Control Engineering, Dalian Maritime University
 
