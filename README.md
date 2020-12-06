@@ -19,7 +19,7 @@
 
 #### 📚 My reading hobbies： 
 - Reading more about computer works<br/>
-- Financial books、History books、philosophy booksand<br/>
+- Financial books、History books、philosophy books<br/>
 - Fiction<br/>
 - and so on<br/>
 
