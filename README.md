@@ -6,6 +6,7 @@
 #### 📫 Contract me by:
 - [CSDN blog](https://blog.csdn.net/wangqingchuan92)<br/>
 - [weibo](https://weibo.com/u/2166554557?is_all=1)<br/>
+- [linkedin](https://www.linkedin.com/in/%E6%99%B4%E5%B7%9D-%E7%8E%8B-0295b6178/)
 - e-mail：wangqingchuan92@126.com<br/>
 
 #### 🎓 My education background ：
@@ -17,7 +18,6 @@
 #### 📚 My reading hobbies： 
 - Reading more about computer works、Financial books、History books、philosophy books、Fiction and so on
 
-#### 💬 News & Travel:
 
 <!--
 **fyw4/fyw4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
