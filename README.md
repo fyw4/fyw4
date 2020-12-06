@@ -1,6 +1,7 @@
 ### Hi there,my name is Qingchuan Wang（王晴川 in Chinese） 👋
 
-#### 🌱 I’m currently learning：C/C++、Data Structures and Algorithms、Advanced mathematics、Probability Statistics、Linear algebra、Principle of Automatic Control
+#### 🌱 I’m currently learning：
+C/C++、Data Structures and Algorithms、Advanced mathematics、Probability Statistics、Linear algebra、Principle of Automatic Control
 
 #### 📫 Contract me by:
 - [CSDN blog](https://blog.csdn.net/wangqingchuan92)<br/>
@@ -13,7 +14,8 @@
 #### 🔭 My work experience：
 - Now working for CRRC DALIAN INSTITUE CO.,LTD<br/>
 
-#### 📚 My reading hobbies： Reading more about computer works、Financial books、History books、philosophy books、Fiction and so on
+#### 📚 My reading hobbies： 
+Reading more about computer works、Financial books、History books、philosophy books、Fiction and so on
 
 <!--
 **fyw4/fyw4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
