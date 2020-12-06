@@ -3,7 +3,6 @@
 #### 🌱 I’m currently learning：C/C++、Qt、Data Structures and Algorithms、Embedded Development 、Math、Principle of Automatic Control
 
 #### 📫 Contract me by:
-
 <br>[CSDN blog](https://blog.csdn.net/wangqingchuan92) 
 <br>[weibo](https://weibo.com/u/2166554557?is_all=1)  
 <br>e-mail：wangqingchuan92@126.com
