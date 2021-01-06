@@ -7,7 +7,8 @@
 - [CSDN blog](https://blog.csdn.net/wangqingchuan92)<br/>
 - [Website](https://wangqingchuan92.com/)<br/>
 - [weibo](https://weibo.com/u/2166554557?is_all=1)<br/>
-- [linkedin](https://www.linkedin.com/in/%E6%99%B4%E5%B7%9D-%E7%8E%8B-0295b6178/)
+- [linkedin](https://www.linkedin.com/in/%E6%99%B4%E5%B7%9D-%E7%8E%8B-0295b6178/)<br/>
+- [简书](https://www.jianshu.com/u/0e948a584e35)<br/>
 - e-mail：wangqingchuan92@126.com<br/>
 
 #### 🎓 My education background ：
